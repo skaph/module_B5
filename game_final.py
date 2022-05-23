@@ -65,6 +65,7 @@ def users_input(f):
     return x, y
 
 
+# Начинаем игру
 show_game(game_)
 
 while True:
